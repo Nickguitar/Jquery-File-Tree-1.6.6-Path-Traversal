@@ -9,7 +9,7 @@ Added to a local file inclusion attack this can lead to arbitrarily download any
 
 # Usage
 
-`$ xpl_jqueryFileTree.php -u url \[-f extensions/filenames] \[-p path] \[-r] \[-h] \[-a]`
+`$ xpl_jqueryFileTree.php -u url [-f extensions/filenames] [-p path] [-r] [-h] [-a]`
 
 Legend:
 ```
