@@ -3,9 +3,9 @@ Jquery File Tree 1.6.6 Path Traversal exploit (CVE-2017-1000170)
 
 The jQueryFileTree <1.6.6 plugin for Wordpress default settings fail to parse the user data causing a path traversal vulnerability.
 
-This allows an attacker to list all the filesnames of all readabçe folders of the webserver. 
+This allows an attacker to list all the filesnames of all readable folders of the webserver. 
 
-Added to a local file inclusion attack this can lead to arbitrarily download any readable file of the server.
+Added to a local file inclusion or local file disclosure attack this can lead to arbitrarily download any readable file of the server.
 
 # Usage
 
